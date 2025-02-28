@@ -1,0 +1,1 @@
+This is a project as part of a training program. This project is about writing an algorithm that finds the sum of distinct elements of two sets of array. The project was done using Javascript, HTML, and Bootstrap.
